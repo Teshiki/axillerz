@@ -3426,9 +3426,9 @@ def buildblock(size):
 	return(out_str)
 
 def usage():
-	print ' OVERTNET DDoS Stress Script v1.b - Created By OV3RTK1LL & Th3 W0L7'
-	print ' https://www.facebook.com/groups/uniao.hackers/'
-	print ' * How To Use : overtnet.py http://site.com/'
+	print ' butter DDoS Stress Script v1.b - Created By Axillerz'
+	print ' https://www.facebook.com/azka.callister'
+	print ' * How To Use : butter.py http://site.com/'
 	print "\a"
 print \
 	
